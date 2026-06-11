@@ -1,0 +1,13 @@
+# ==========================================
+# Word Counter & Text Analyzer Requirements
+# ==========================================
+
+# Python Version
+Python>=3.8
+
+# Built-in Modules Used:
+# os
+# re
+# collections
+
+# No third-party packages required.
